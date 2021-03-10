@@ -53,6 +53,8 @@ class Student{
 };
 
 int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
     int age, standard;
     string first_name, last_name;
     
