@@ -17,7 +17,7 @@ void swap(string &a, string &b){
 }
 
 int main() {
-	ios::sync_with_stdio(0);
+    ios::sync_with_stdio(0);
     cin.tie(0);
     string a,b,temp;
     cin>>a >> b;
